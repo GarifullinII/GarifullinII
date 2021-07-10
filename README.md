@@ -1,4 +1,5 @@
-## Hey, I'm a Front-end developer
+## Hey 👋 , my name is Il'dar
+## I'm a Front-end developer
 
 [![Header](https://github.com/GarifullinII/GarifullinII/blob/main/assets/me.gif)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
 
