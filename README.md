@@ -1,6 +1,6 @@
-[![Header](https://github.com/GarifullinII/GarifullinII/blob/main/assets/programmer.gif)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
+[![Header](https://github.com/GarifullinII/GarifullinII/blob/main/assets/me.gif)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
 
-About me
+## I'm a Front-end developer
 
 Languages and Tools
 
