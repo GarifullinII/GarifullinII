@@ -2,7 +2,7 @@
 
 ## I'm a Front-end developer
 
-###Languages and Tools
+### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-FF0000)
 ![CSS](https://img.shields.io/badge/-CSS-FF8C00)
 ![JS](https://img.shields.io/badge/-JS-FFFF00)
