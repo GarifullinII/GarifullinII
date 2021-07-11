@@ -1,8 +1,6 @@
 ## Hey 👋 , my name is Il'dar
 ## I'm a Front-end developer
 
-[![Header](https://github.com/GarifullinII/GarifullinII/blob/main/assets/me.gif)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
-
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-FF0000?style=flat&logo)
 ![CSS](https://img.shields.io/badge/-CSS-FF8C00?style=flat&logo)
@@ -17,3 +15,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/ildaridrisovich)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/cpeople.xyz)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/ildaridrisovich)
+
+[![Header](https://github.com/GarifullinII/GarifullinII/blob/main/assets/me.gif)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
