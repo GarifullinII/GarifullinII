@@ -13,7 +13,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-FF8C00?style=flat&logo)
 
 ### Follow Me
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/ildaridrisovich)
+<!-- [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA) -->
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/argamak.space/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/ildaridrisovich)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/ildaridrisovich)
