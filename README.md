@@ -4,7 +4,7 @@
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-FF8C00?style=flat&logo)
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat&logo)
-![JS](https://img.shields.io/badge/-JS-FFFF00?style=flat&logo)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=flat&logo)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=flat&logo)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat&logo)
 ![Dart](https://img.shields.io/badge/-Dart-66FF00?style=flat&logo)
