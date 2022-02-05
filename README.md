@@ -15,6 +15,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-5A009D?style=flat&logo)
 
 ### Follow Me
+[![Vk](https://img.shields.io/badge/-Vk-090909?style=flat&logo=Vk&logoColor=27A0D9)](https://vk.com/garifullintrip)
+[![Fb](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Fb&logoColor=27A0D9)](https://www.facebook.com/profile.php?id=100073681188191)
+[![In](https://img.shields.io/badge/-Instagram-090909?style=flat&logo=In&logoColor=FF0000)](https://www.instagram.com/garifullintrip/)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCNkLRIFzquWOpZeGKlYBxYA)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/garifullintrip)
-[![Vk](https://img.shields.io/badge/-Vk-090909?style=flat&logo=Vk&logoColor=27A0D9)](https://vk.com/garifullintrip)
