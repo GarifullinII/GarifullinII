@@ -1,18 +1,13 @@
-## Hey 👋 , my name is Il'dar
-## I'm a Flutter developer
+## Hey 👋 , my name is Il'dar [Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=green)
 
-### Languages and Tools
-![Dart](https://img.shields.io/badge/-Dart-66FF00?style=flat&logo)
-![HTML](https://img.shields.io/badge/-HTML-FF8C00?style=flat&logo)
-![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat&logo)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=flat&logo)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=flat&logo)
-![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat&logo)
-
-![Flutter](https://img.shields.io/badge/-Flutter-1E90FF?style=flat&logo)
-![React](https://img.shields.io/badge/-React-00FFFF?style=flat&logo)
-![Vue](https://img.shields.io/badge/-Vue-00FF00?style=flat&logo)
-![Redux](https://img.shields.io/badge/-Redux-5A009D?style=flat&logo)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=GarifullinII&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GarifullinII&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <br>
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=GarifullinII&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
 
 ### Follow Me
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=flat&logo=Vk&logoColor=27A0D9)](https://vk.com/garifullintrip)
