@@ -2,7 +2,7 @@
 
 ✨ My name is **Ildar**
 
-![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=yellow)
+![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=green)
 
 ## 📌 GitHub Stats and Top Languages
 
