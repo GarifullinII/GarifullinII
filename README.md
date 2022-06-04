@@ -1,6 +1,6 @@
-# Hello World! 👋
+# Hello, World! 👋
 
-✨ My name is **Ildar Garifullin**
+✨ My name is **Ildar**
 
 ![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=red)
 
