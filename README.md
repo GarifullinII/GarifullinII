@@ -1,12 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=green)
-<br>
-<br>
+
 # Hello World! 👋
-<br>
-<br>
+
 ✨ My name is **Ildar Garifullin**
-<br>
-<br>
+
 ## 📌 GitHub Stats and Top Languages
 
 <p float="center">
