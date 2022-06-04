@@ -2,6 +2,8 @@
 
 ✨ My name is **Ildar Garifullin**
 
+![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=red)
+
 ## 📌 GitHub Stats and Top Languages
 
 <p float="center">
@@ -18,4 +20,3 @@ You can find and get touch with me on these accounts 👀
 <br>
 [![Telegram Badge](https://img.shields.io/badge/GARIFULLIN-follow%20on%20telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/it_gi)
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=green)
