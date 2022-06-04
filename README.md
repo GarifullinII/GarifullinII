@@ -18,5 +18,5 @@ You can find and get touch with me on these accounts 👀
 
 [![LinkedIn Badge](https://img.shields.io/badge/GARIFULLIN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ildar-garifullin-575237221/)
 <br>
-[![Telegram Badge](https://img.shields.io/badge/GARIFULLIN-follow%20on%20telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/it_gi)
+[![Telegram Badge](https://img.shields.io/badge/GARIFULLIN-write%20_%20me-blue?style=for-the-badge&logo=telegram)](https://t.me/it_gi)
 <br>
