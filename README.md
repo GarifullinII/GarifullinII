@@ -8,8 +8,8 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=GarifullinII&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=GarifullinII&theme=dark&hide_border=true&background=#000000">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarifullinII&layout=compact&theme=dark" />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=GarifullinII&theme=dark&hide_border=true&background=#000000">
 </p>
 
 ## 📫 How to reach me
