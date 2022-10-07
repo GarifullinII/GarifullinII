@@ -12,6 +12,6 @@
 
 ## 📫 How to reach me
 
-You can find and get touch with me on these accounts 👀
+You can find and get touch with me on this account 👀
 
 [![LinkedIn Badge](https://img.shields.io/badge/GARIFULLIN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ildar-garifullin-575237221/)
