@@ -4,12 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=GarifullinII&color=green)
 
-## 📌 GitHub Stats
-
-<p float="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=GarifullinII&theme=dark&hide_border=true&background=#000000">
-</p>
-
 ## 📫 How to reach me
 
 You can find and get touch with me on this account 👀
